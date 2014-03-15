@@ -16,6 +16,10 @@ Install
 $ go get github.com/solvip/frequency
 ```
 
+Example
+=======
+An example program can be found at https://github.com/solvip/frequency-english
+
 Usage
 =====
 
