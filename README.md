@@ -27,7 +27,7 @@ Initializing and training the analyzer, where corpus.txt is a file containing yo
 ```
 contents, _ := ioutil.ReadFile("corpus.txt")
 
-a := frequency.New()
+a := frequency.NewAnalyzer()
 a.Feed(contents)
 ```
 
