@@ -1,7 +1,7 @@
 frequency
 =========
 
-A library for frequency analysis of UTF-8 encoded text.
+A library for frequency analysis of ASCII text.
 
 You feed the analyzer a corpus of text, be it English, source code, etc.
 You can then score strings or byte arrays of content on a scale 0 - 1, depending on
